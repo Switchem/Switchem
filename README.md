@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there 👋 
+- I'm doing my net+ and about to move on to sec+
+- I’m looking for help with finding resources to learn networking and cybersecurity skills and a little bit of coding
+- I love meeting new people, so help me help you
 <!--
 **Switchem/Switchem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
